@@ -1,0 +1,25 @@
+:root {
+  --color-primary: #e50914;
+  --color-dark: #141414;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Helvetica", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background: black;
+  color: #999;
+}
+h1,
+h2,
+h3,
+h4 {
+  color: white;
+}
+p {
+  margin: 0.5rem 0;
+}
